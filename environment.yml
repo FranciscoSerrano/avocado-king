@@ -1,0 +1,16 @@
+# The name of the environment matching the repository name
+name: avocado-king
+# Set the Anaconda channel to download the libs from
+# conda-forge is first to install jupyterlab
+channels:
+- conda-forge
+- defaults
+# Start with Python and include everything you need
+dependencies:
+- python=3.8
+- pip
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- jupyterlab
