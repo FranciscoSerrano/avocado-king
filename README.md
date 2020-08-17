@@ -21,13 +21,17 @@ source activate king-avocado
 
 ## Project Overview
 
-?
+The purpose of this project is to use sample data of Avocado prices over time for practice working in pandas and matplotlib.
+Goals in this practice project are to find correlations of price to region and avocado type, (I.e. conventional, organic, etc) and how prices have changed over time.
 
 ## Todo Checklist
 
 A helpful checklist to gauge how your README is coming on what I would like to finish:
 
-- [ ] Project Overview
+- [x] Project Overview
+- [ ] Add data visualization of price change over time for a region (ex. Orlando)
+- [ ] Add data visualization of a normal distrobution (ex. average price)
+- [ ] Reach conclusions about data and add a summary of what we've learned.
 
 ## Contributing
 
